@@ -1,4 +1,6 @@
-# User manual
+General management
+
+Languages# User manual
 
 [[toc]]
 
