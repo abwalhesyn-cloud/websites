@@ -1,7 +1,7 @@
 # User manual
 
-[[toc]]
-
+[[toc]]الغة العربية 
+Android 15 
 ## Start Shizuku
 
 Shizuku supports startup in the following three ways.
